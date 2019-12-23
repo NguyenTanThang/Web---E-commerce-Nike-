@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+    border-radius: 0;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+a:hover{
+    text-decoration: none !important;
+}

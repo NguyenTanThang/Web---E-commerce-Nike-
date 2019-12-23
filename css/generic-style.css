@@ -1,0 +1,46 @@
+/*Text Colors*/
+.text-color-white{
+    color: #FFF;
+}
+
+/*Button*/
+.btn-primary-color{
+    background-color: #f55762;
+    color: #FFF;
+    border: 1px solid #f55762;
+}
+
+.btn-primary-color:hover{
+    background-color: #FFF;
+    color: #f55762;
+}
+
+/*Section padding*/
+.section-padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/*Section Header*/
+.section-header{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.section-header h2{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.section-header h3{
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
+
+/*Centralize*/
+.centralize{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
